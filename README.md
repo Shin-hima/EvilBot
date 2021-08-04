@@ -10,7 +10,7 @@
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m EvilBot`
+`python3 -m shinsan`
 
 
 ### Configuration
